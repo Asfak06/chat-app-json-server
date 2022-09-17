@@ -1,0 +1,563 @@
+{
+  "users": [
+    {
+      "email": "asfakmunna@gmail.com",
+      "password": "$2a$10$v/LZWY1pK8VOfdQuiniHeesViV1QCwvp6ZLu1l179EtOIVFkN6n.e",
+      "name": "Asfak",
+      "id": 1
+    },
+    {
+      "email": "Fate@gmail.com",
+      "password": "$2a$10$pTpO2eed30ZppkLWa2DbKusF/bchn7oMaT8AILa1G4XnBHYelmRq6",
+      "name": "Fate",
+      "id": 2
+    },
+    {
+      "email": "zoro@gmail.com",
+      "password": "$2a$10$ao1NFPUdOIFY8oQ7Lsj0wuEBiXJrOWq030tg.SA1BdW/gxIrv9BXi",
+      "name": "zoro",
+      "id": 3
+    }
+  ],
+  "conversations": [
+    {
+      "participants": "asfakmunna@gmail.com-Fate@gmail.com",
+      "users": [
+        {
+          "email": "asfakmunna@gmail.com",
+          "name": "Asfak",
+          "id": 1
+        },
+        {
+          "email": "Fate@gmail.com",
+          "name": "Munna",
+          "id": 2
+        }
+      ],
+      "message": "20",
+      "timestamp": 1663441801107,
+      "id": 1
+    },
+    {
+      "participants": "asfakmunna@gmail.com-zoro@gmail.com",
+      "users": [
+        {
+          "email": "asfakmunna@gmail.com",
+          "name": "Asfak",
+          "id": 1
+        },
+        {
+          "email": "zoro@gmail.com",
+          "name": "zoro",
+          "id": 3
+        }
+      ],
+      "message": "cool",
+      "timestamp": 1663442355585,
+      "id": 2
+    },
+    {
+      "participants": "Fate@gmail.com-zoro@gmail.com",
+      "users": [
+        {
+          "email": "Fate@gmail.com",
+          "name": "Fate",
+          "id": 2
+        },
+        {
+          "email": "zoro@gmail.com",
+          "name": "zoro",
+          "id": 3
+        }
+      ],
+      "message": "what flavour",
+      "timestamp": 1663442391505,
+      "id": 3
+    }
+  ],
+  "messages": [
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "Fate@gmail.com",
+        "name": "Munna",
+        "id": 2
+      },
+      "receiver": {
+        "email": "asfakmunna@gmail.com",
+        "password": "$2a$10$v/LZWY1pK8VOfdQuiniHeesViV1QCwvp6ZLu1l179EtOIVFkN6n.e",
+        "name": "Asfak",
+        "id": 1
+      },
+      "message": "hi",
+      "timestamp": 1663441353597,
+      "id": 1
+    },
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "asfakmunna@gmail.com",
+        "name": "Asfak",
+        "id": 1
+      },
+      "receiver": {
+        "email": "Fate@gmail.com",
+        "name": "Munna",
+        "id": 2
+      },
+      "message": "hello",
+      "timestamp": 1663441362965,
+      "id": 2
+    },
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "Fate@gmail.com",
+        "name": "Munna",
+        "id": 2
+      },
+      "receiver": {
+        "email": "asfakmunna@gmail.com",
+        "name": "Asfak",
+        "id": 1
+      },
+      "message": "1",
+      "timestamp": 1663441747691,
+      "id": 3
+    },
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "asfakmunna@gmail.com",
+        "name": "Asfak",
+        "id": 1
+      },
+      "receiver": {
+        "email": "Fate@gmail.com",
+        "name": "Munna",
+        "id": 2
+      },
+      "message": "2",
+      "timestamp": 1663441749784,
+      "id": 4
+    },
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "Fate@gmail.com",
+        "name": "Munna",
+        "id": 2
+      },
+      "receiver": {
+        "email": "asfakmunna@gmail.com",
+        "name": "Asfak",
+        "id": 1
+      },
+      "message": "3",
+      "timestamp": 1663441752020,
+      "id": 5
+    },
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "asfakmunna@gmail.com",
+        "name": "Asfak",
+        "id": 1
+      },
+      "receiver": {
+        "email": "Fate@gmail.com",
+        "name": "Munna",
+        "id": 2
+      },
+      "message": "4",
+      "timestamp": 1663441754079,
+      "id": 6
+    },
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "Fate@gmail.com",
+        "name": "Munna",
+        "id": 2
+      },
+      "receiver": {
+        "email": "asfakmunna@gmail.com",
+        "name": "Asfak",
+        "id": 1
+      },
+      "message": "5",
+      "timestamp": 1663441757887,
+      "id": 7
+    },
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "asfakmunna@gmail.com",
+        "name": "Asfak",
+        "id": 1
+      },
+      "receiver": {
+        "email": "Fate@gmail.com",
+        "name": "Munna",
+        "id": 2
+      },
+      "message": "6",
+      "timestamp": 1663441760211,
+      "id": 8
+    },
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "Fate@gmail.com",
+        "name": "Munna",
+        "id": 2
+      },
+      "receiver": {
+        "email": "asfakmunna@gmail.com",
+        "name": "Asfak",
+        "id": 1
+      },
+      "message": "7",
+      "timestamp": 1663441762420,
+      "id": 9
+    },
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "asfakmunna@gmail.com",
+        "name": "Asfak",
+        "id": 1
+      },
+      "receiver": {
+        "email": "Fate@gmail.com",
+        "name": "Munna",
+        "id": 2
+      },
+      "message": "8",
+      "timestamp": 1663441764400,
+      "id": 10
+    },
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "Fate@gmail.com",
+        "name": "Munna",
+        "id": 2
+      },
+      "receiver": {
+        "email": "asfakmunna@gmail.com",
+        "name": "Asfak",
+        "id": 1
+      },
+      "message": "9",
+      "timestamp": 1663441766924,
+      "id": 11
+    },
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "asfakmunna@gmail.com",
+        "name": "Asfak",
+        "id": 1
+      },
+      "receiver": {
+        "email": "Fate@gmail.com",
+        "name": "Munna",
+        "id": 2
+      },
+      "message": "10",
+      "timestamp": 1663441770422,
+      "id": 12
+    },
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "Fate@gmail.com",
+        "name": "Munna",
+        "id": 2
+      },
+      "receiver": {
+        "email": "asfakmunna@gmail.com",
+        "name": "Asfak",
+        "id": 1
+      },
+      "message": "11",
+      "timestamp": 1663441773660,
+      "id": 13
+    },
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "asfakmunna@gmail.com",
+        "name": "Asfak",
+        "id": 1
+      },
+      "receiver": {
+        "email": "Fate@gmail.com",
+        "name": "Munna",
+        "id": 2
+      },
+      "message": "12",
+      "timestamp": 1663441775850,
+      "id": 14
+    },
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "Fate@gmail.com",
+        "name": "Munna",
+        "id": 2
+      },
+      "receiver": {
+        "email": "asfakmunna@gmail.com",
+        "name": "Asfak",
+        "id": 1
+      },
+      "message": "13",
+      "timestamp": 1663441778479,
+      "id": 15
+    },
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "asfakmunna@gmail.com",
+        "name": "Asfak",
+        "id": 1
+      },
+      "receiver": {
+        "email": "Fate@gmail.com",
+        "name": "Munna",
+        "id": 2
+      },
+      "message": "14",
+      "timestamp": 1663441782449,
+      "id": 16
+    },
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "Fate@gmail.com",
+        "name": "Munna",
+        "id": 2
+      },
+      "receiver": {
+        "email": "asfakmunna@gmail.com",
+        "name": "Asfak",
+        "id": 1
+      },
+      "message": "15",
+      "timestamp": 1663441784968,
+      "id": 17
+    },
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "asfakmunna@gmail.com",
+        "name": "Asfak",
+        "id": 1
+      },
+      "receiver": {
+        "email": "Fate@gmail.com",
+        "name": "Munna",
+        "id": 2
+      },
+      "message": "16",
+      "timestamp": 1663441788241,
+      "id": 18
+    },
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "Fate@gmail.com",
+        "name": "Munna",
+        "id": 2
+      },
+      "receiver": {
+        "email": "asfakmunna@gmail.com",
+        "name": "Asfak",
+        "id": 1
+      },
+      "message": "17",
+      "timestamp": 1663441792302,
+      "id": 19
+    },
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "asfakmunna@gmail.com",
+        "name": "Asfak",
+        "id": 1
+      },
+      "receiver": {
+        "email": "Fate@gmail.com",
+        "name": "Munna",
+        "id": 2
+      },
+      "message": "18",
+      "timestamp": 1663441795279,
+      "id": 20
+    },
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "Fate@gmail.com",
+        "name": "Munna",
+        "id": 2
+      },
+      "receiver": {
+        "email": "asfakmunna@gmail.com",
+        "name": "Asfak",
+        "id": 1
+      },
+      "message": "19",
+      "timestamp": 1663441797995,
+      "id": 21
+    },
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "asfakmunna@gmail.com",
+        "name": "Asfak",
+        "id": 1
+      },
+      "receiver": {
+        "email": "Fate@gmail.com",
+        "name": "Munna",
+        "id": 2
+      },
+      "message": "20",
+      "timestamp": 1663441801107,
+      "id": 22
+    },
+    {
+      "conversationId": 2,
+      "sender": {
+        "email": "zoro@gmail.com",
+        "name": "zoro",
+        "id": 3
+      },
+      "receiver": {
+        "email": "asfakmunna@gmail.com",
+        "password": "$2a$10$v/LZWY1pK8VOfdQuiniHeesViV1QCwvp6ZLu1l179EtOIVFkN6n.e",
+        "name": "Asfak",
+        "id": 1
+      },
+      "message": "hey",
+      "timestamp": 1663442339179,
+      "id": 23
+    },
+    {
+      "conversationId": 2,
+      "sender": {
+        "email": "asfakmunna@gmail.com",
+        "name": "Asfak",
+        "id": 1
+      },
+      "receiver": {
+        "email": "zoro@gmail.com",
+        "name": "zoro",
+        "id": 3
+      },
+      "message": "hello",
+      "timestamp": 1663442344420,
+      "id": 24
+    },
+    {
+      "conversationId": 2,
+      "sender": {
+        "email": "zoro@gmail.com",
+        "name": "zoro",
+        "id": 3
+      },
+      "receiver": {
+        "email": "asfakmunna@gmail.com",
+        "name": "Asfak",
+        "id": 1
+      },
+      "message": "sup",
+      "timestamp": 1663442350990,
+      "id": 25
+    },
+    {
+      "conversationId": 2,
+      "sender": {
+        "email": "asfakmunna@gmail.com",
+        "name": "Asfak",
+        "id": 1
+      },
+      "receiver": {
+        "email": "zoro@gmail.com",
+        "name": "zoro",
+        "id": 3
+      },
+      "message": "cool",
+      "timestamp": 1663442355585,
+      "id": 26
+    },
+    {
+      "conversationId": 3,
+      "sender": {
+        "email": "zoro@gmail.com",
+        "name": "zoro",
+        "id": 3
+      },
+      "receiver": {
+        "email": "Fate@gmail.com",
+        "password": "$2a$10$pTpO2eed30ZppkLWa2DbKusF/bchn7oMaT8AILa1G4XnBHYelmRq6",
+        "name": "Fate",
+        "id": 2
+      },
+      "message": "hey",
+      "timestamp": 1663442368995,
+      "id": 27
+    },
+    {
+      "conversationId": 3,
+      "sender": {
+        "email": "Fate@gmail.com",
+        "name": "Fate",
+        "id": 2
+      },
+      "receiver": {
+        "email": "zoro@gmail.com",
+        "name": "zoro",
+        "id": 3
+      },
+      "message": "sup",
+      "timestamp": 1663442374984,
+      "id": 28
+    },
+    {
+      "conversationId": 3,
+      "sender": {
+        "email": "zoro@gmail.com",
+        "name": "zoro",
+        "id": 3
+      },
+      "receiver": {
+        "email": "Fate@gmail.com",
+        "name": "Fate",
+        "id": 2
+      },
+      "message": "cool aid",
+      "timestamp": 1663442382721,
+      "id": 29
+    },
+    {
+      "conversationId": 3,
+      "sender": {
+        "email": "Fate@gmail.com",
+        "name": "Fate",
+        "id": 2
+      },
+      "receiver": {
+        "email": "zoro@gmail.com",
+        "name": "zoro",
+        "id": 3
+      },
+      "message": "what flavour",
+      "timestamp": 1663442391505,
+      "id": 30
+    }
+  ]
+}
